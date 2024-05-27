@@ -13,7 +13,7 @@ export default function Overlay() {
         <p>In React & Threejs —</p>
       </TopLeft>
       <BottomLeft>
-        A runtime upcomming Web-App of <a href="https://americandigitalstudios.com/">americandigitalstudios.com</a>
+        A runtime upcomming Web-App of <a href="https://codeinnovators.vercel.app/">codeinnovators</a>
       </BottomLeft>
       <BottomRight>
         Inspiration and ideas
